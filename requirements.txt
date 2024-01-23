@@ -31,7 +31,7 @@ idna==2.10
 isodate==0.6.0
 kombu==5.0.2
 lxml==4.6.3
-Pillow==8.2.0
+Pillow==10.2.0
 promise==2.3
 prompt-toolkit==3.0.18
 PyJWT==2.1.0
