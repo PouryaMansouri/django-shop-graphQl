@@ -14,7 +14,7 @@ click-didyoumean==0.0.3
 click-plugins==1.1.1
 click-repl==0.1.6
 defusedxml==0.7.1
-Django==3.2.2
+Django==3.2.25
 django-celery-beat==2.2.0
 django-filter==2.4.0
 django-graphql-jwt==0.3.2
